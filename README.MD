@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-- [Da uma olhada ai](https://mirellioliveirainteriores.com.br/)
+- [Da uma olhada ai](https://link-bio-lemon.vercel.app/)
 
 
 
